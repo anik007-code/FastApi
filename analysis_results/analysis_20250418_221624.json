@@ -1,0 +1,30 @@
+{
+  "word_count": 74,
+  "unique_words": 42,
+  "top_words": {
+    "nlp": 4,
+    "language": 3,
+    "natural": 2,
+    "services": 2,
+    "processing": 1,
+    "field": 1,
+    "artificial": 1,
+    "intelligence": 1,
+    "focuses": 1,
+    "interaction": 1
+  },
+  "sentiment": {
+    "score": 0.0,
+    "label": "neutral",
+    "positive_words": 0,
+    "negative_words": 0
+  },
+  "keywords": {
+    "nlp": 4,
+    "language": 3,
+    "natural": 2,
+    "services": 2,
+    "processing": 1
+  },
+  "summary": "\n        Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction\n        between computers and humans through natural language. The ultimate objective of NLP is to read, decipher,\n        understand, and make sense of human language in a valuable way. Companies like Google, Amazon,\n        and Microsoft invest heavily in NLP research to improve their products and services."
+}
